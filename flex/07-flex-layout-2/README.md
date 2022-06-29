@@ -3,7 +3,6 @@
 In this last flexbox exercise you're going to recreate an incredibly common website layout. It is so common that it is often called the [Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it is actually pretty easy to pull off.
 
 As with the previous exercise, we've left a little more for you to do.
-
 ### Hints
 - You will need to change the flex-direction to push the footer down.
 - You will need to add some divs as containers to get things to line up correctly.
